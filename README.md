@@ -1,15 +1,16 @@
 # Deep-rl-practices
-Implementation of Deep Reinforcement Learning Algorithms
-## Practice_1 Cross-Entropy Method
+Implementation of Deep Reinforcement Learning Algorithms and their Comparison
 
-## Practice_2 Deep Cross-Entropy Method
+### Practice_1 Cross-Entropy Method
 
-## Practice_3 Dynamic programming. Policy and Value Iterations
+### Practice_2 Deep Cross-Entropy Method
 
-## Practice_4 Model-Free Reinforcement Learning: Monte-Carlo, SARSA
+### Practice_3 Dynamic programming. Policy and Value Iterations
 
-## Practice_5 Deep Q-Networks
+### Practice_4 Model-Free Reinforcement Learning: Monte-Carlo, SARSA
 
-## Practice_6 Proximal Policy Optimization
+### Practice_5 Deep Q-Networks
 
-## Practice_7 Soft Actor-Critic
+### Practice_6 Proximal Policy Optimization
+
+### Practice_7 Soft Actor-Critic
